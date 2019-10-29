@@ -11,9 +11,8 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|0015|[3Sum](https://leetcode.com/problems/3sum/) | [JAVA](.Algorithms/3Sum.java)|Medium|
+|0015|[3Sum](https://leetcode.com/problems/3sum/) | [JAVA](./Algorithms/3Sum.java)|Medium|
 
-|15|[3Sum](https://leetcode.com/problems/3sum/)| [C++](./algorithms/cpp/3Sum/3Sum.cpp)|Medium|
 
 
 
